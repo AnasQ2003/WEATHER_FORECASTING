@@ -1,6 +1,6 @@
-# 🌦️ Weather Forecasting System
-
 <div align="center">
+
+# 🌦️ Weather Forecasting System
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -25,19 +25,6 @@ The application provides a clean **Tkinter GUI** where users can type any city n
 - Run ARIMA-based **3-day temperature forecasts** with confidence intervals
 - See interactive embedded **matplotlib** plots
 - Log all forecasts and diagnostics to a local `weather_logg.txt` file
-
----
-
-## 👨‍💻 Team Members
-
-| Name | Enrollment No. |
-|---|---|
-| Abdul Samad | 02-134212-005 |
-| Anas Ahmed Qureshi | 02-134212-042 |
-
-**Course Instructor:** Ms. Saba Imtiaz
-**Lab Instructor:** Rabia Amjad
-**Class:** BS (CS) — 6(A)
 
 ---
 
@@ -246,21 +233,6 @@ OpenWeatherMap API
 
 ---
 
-## 🏫 Academic Context
-
-| Field | Details |
-|---|---|
-| **University** | Bahria University, Karachi Campus |
-| **Department** | Computer Science |
-| **Degree** | BS (Computer Science) |
-| **Semester** | 6th Semester |
-| **Course** | Introduction to Data Science |
-| **Course Code** | CSL-487 |
-| **Instructor** | Ms. Saba Imtiaz |
-| **Lab Instructor** | Rabia Amjad |
-
----
-
 ## ⚠️ Notes
 
 - The **API key** hardcoded in the source file (`13d6f372052b76fdc44bd6057ffb9dfc`) is a development key — **replace it with your own** from [openweathermap.org](https://openweathermap.org/api) for production use.
@@ -275,7 +247,7 @@ OpenWeatherMap API
 ```
 MIT License
 
-Copyright (c) Weather Forecasting---2026 AnasQ2003
+Copyright (c) Weather Forecasting --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
