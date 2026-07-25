@@ -247,7 +247,7 @@ OpenWeatherMap API
 ```
 MIT License
 
-Copyright (c) Weather Forecasting --- 2026 AnasQ2003
+Copyright (c) Weather Forecasting --- 2026 AnasQ2003🌦️ 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
