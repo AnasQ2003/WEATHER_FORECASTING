@@ -18,7 +18,7 @@
 
 ## 📋 Project Overview
 
-The **Weather Forecasting System** is a Data Science project developed as part of the **Introduction to Data Science Lab. It leverages **machine learning and statistical time-series modeling** to predict future weather conditions using live data fetched from the **OpenWeatherMap API**.
+The **Weather Forecasting System** is a Data Science project developed as part of the Introduction to Data Science Lab. It leverages **machine learning and statistical time-series modeling** to predict future weather conditions using live data fetched from the **OpenWeatherMap API**.
 
 The application provides a clean **Tkinter GUI** where users can type any city name to:
 - View real-time current weather conditions
